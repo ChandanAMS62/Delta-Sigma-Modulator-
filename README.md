@@ -1,6 +1,6 @@
 # Delta-Sigma-Modulator-
 # MATLAB IMPLEMENTATION OF DSM
-1.) With inbuilt MATLAB functions
+# 1.) With inbuilt MATLAB functions
 
 clear all;
 clc;
